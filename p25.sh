@@ -1,7 +1,4 @@
 #! /bin/bash
-# echo "starting screen" \ &
-
-# sudo screen \ &
 
 echo "Starting P25 to DMR Bridge" \ &
 
